@@ -17,7 +17,6 @@
 #pragma once
 
 #define TAPPING_TERM 200
-#define PERMISSIVE_HOLD
 
 /* Turn off effects when suspended */
 #define RGB_DISABLE_WHEN_USB_SUSPENDED
